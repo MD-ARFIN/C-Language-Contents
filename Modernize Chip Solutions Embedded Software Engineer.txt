@@ -1,0 +1,23 @@
+1.What are the strorage classes in c.
+2.what is array and write a program to print the elements in an array(program).
+3.What is pointer and how declare a pointer.
+4.What is different between the structure and union.And size of structure.
+5.what is dangling pointer.
+6.wap given number is prime or not.
+7.program for 1.set a bit 2.clear a bit 3.toggle bitC language concepts
+8.Operators
+9.Functions
+10.Pointers
+11.Arrays
+12.Strings
+13.Linux basics
+14.Data structures
+
+15.Be thorough with c basicsPractice this with the code part programming path
+https://www.edureka.co/blog/interview-questions/c-programming-interview-questions/
+
+
+1.Storage classes
+2.Dynamic Allocation
+3.Structures
+4.Compilation Stages
